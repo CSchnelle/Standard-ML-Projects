@@ -4,5 +4,7 @@ These projects are from a comparative survey course in programming language para
 
 These project files are .sml and can be opened in a text editor.
 
+To run swipl programs use the .swiple command in terminal.
+
 To install Standard ML of New Jersey visit:
 https://www.smlnj.org/dist/working/index.html
